@@ -1,2 +1,5 @@
 # Installation script from gist
 install_script/
+
+# Nvim session folder
+.nvim/
