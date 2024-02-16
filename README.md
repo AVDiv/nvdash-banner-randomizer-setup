@@ -3,7 +3,7 @@
 
 Basically, each time you open Neovim you'll be seeing a random NvDash banner from a list of your favourite banners.
 
-[Demo](https://media.discordapp.net/attachments/1175292451997614161/1207890959459811328/nvdash-random-banner-demo_online-video-cutter.com.gif?ex=65e14b1e&is=65ced61e&hm=9473e27b8b373957e045dce7aac7ac63c4a8682a05574cfca1d1531103291c27&=&format=webp&width=825&height=465)
+![Demo](https://media.discordapp.net/attachments/1175292451997614161/1207890959459811328/nvdash-random-banner-demo_online-video-cutter.com.gif?ex=65e14b1e&is=65ced61e&hm=9473e27b8b373957e045dce7aac7ac63c4a8682a05574cfca1d1531103291c27&=&format=webp&width=825&height=465)
 
 ## Installation and Configuration
 
