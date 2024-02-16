@@ -1,5 +1,6 @@
 banner_list = {}
 
+-- CUSTOMIZE YOUR BANNERS HERE
 table.insert(banner_list, require("custom.user.nvdash.banner.frog"))
 table.insert(banner_list, require("custom.user.nvdash.banner.hydra"))
 table.insert(banner_list, require("custom.user.nvdash.banner.nerds"))
@@ -7,6 +8,7 @@ table.insert(banner_list, require("custom.user.nvdash.banner.potato"))
 table.insert(banner_list, require("custom.user.nvdash.banner.gigachad"))
 table.insert(banner_list, require("custom.user.nvdash.banner.gigachad_pro"))
 table.insert(banner_list, require("custom.user.nvdash.banner.meme_smile"))
+-- CUSTOMIZE YOUR BANNERS HERE
 
 function get_random_banner()
   if #banner_list == 0 then
